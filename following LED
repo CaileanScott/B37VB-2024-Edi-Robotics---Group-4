@@ -4,6 +4,8 @@
 #define MOT_B1_PIN 9
 #define MOT_B2_PIN 10
 #define uart 9600
+#define sensorNUM 1023
+#define time 500
 int sensDiffThresh = 50;
 int SensorLeft = 0;
 int SensorRight = 0;
@@ -83,10 +85,10 @@ void spin_and_wait(int pwm_A, int pwm_B, int duration)
 void loop()
 {
  boolean reverse = 0;
-SensorLeft = 1023 - analogRead(LeftSensor); 
+SensorLeft = sensorNUM - analogRead(LeftSensor); 
 
 delay(1); 
-SensorRight = 1023 - analogRead(RightSensor); 
+SensorRight = sensorNUM - analogRead(RightSensor); 
 
 delay(1); 
 
@@ -106,5 +108,5 @@ leftServoSpeed = maxSpeed;
 rightServoSpeed = maxSpeed; 
 }
 
-  spin_and_wait(leftServoSpeed,rightServoSpeed,500); 
+  spin_and_wait(leftServoSpeed,rightServoSpeed,time); 
 }
