@@ -1,1 +1,1 @@
-# open-loop-motor-control-report
+# Open-Loop-Motor-Control-Report
