@@ -10,6 +10,14 @@ Version 1 |
 final draft |
 Lewis Gill and Cailean Scott |
 
+### Contents
+Introduction-1
+Theory-2
+Experimental Method-3
+Results-4
+Analysis-5
+Conclustion-6
+
 ### Introduction
 
 ### Theory 
