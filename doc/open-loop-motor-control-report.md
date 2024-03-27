@@ -8,7 +8,7 @@ Cailean Scott, , cs2091@hw.ac.uk
 
 | 27th of Marth 2024 | Version 1     | Final Draft   |              
 | -------------      | ------------- | ------------- | 
-| Lewis Gill         | Cailean Scott | Cell 3, Row 1 | 
+| Lewis Gill         | Cailean Scott |               | 
 ### Contents
 
 | contents            | paragragh no. |          
