@@ -23,6 +23,8 @@ Cailean Scott, , cs2091@hw.ac.uk
 ### Experimental Method
 
 ### Results 
+#### The PWM Values at different speeds 
+
 | Speed no.#      | Speed no.1    | Speed no.2    | Speed no.3    |  Speed no.4    |           
 | -------------   | ------------- | ------------- | ------------- |  ------------- | 
 | Right PWM Value |     200       |      160      |     100       |       60       |
