@@ -23,10 +23,11 @@ Cailean Scott, , cs2091@hw.ac.uk
 ### Experimental Method
 
 ### Results 
-| Speed no.#      | Speed no.1    | Speed no.2    | Speed no.3    |             
-| -------------   | ------------- | ------------- | ------------- |
-| Right PWM Value | Cell 2, Row 1 | Cell 3, Row 1 | Cell 4, Row 1 |
-| Left  PWM Value | Cell 2, Row 2 | Cell 2, Row 1 | Cell 4, Row 2 |
+| Speed no.#      | Speed no.1    | Speed no.2    | Speed no.3    |  Speed no.4    |           
+| -------------   | ------------- | ------------- | ------------- |  ------------- | 
+| Right PWM Value |     200       |      160      |     100       |       60       |
+| Left  PWM Value |     200       |      200      |     140       |       100      |
+
 ### Analysis
 
 ### Conclusion
