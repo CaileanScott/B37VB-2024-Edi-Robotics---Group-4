@@ -20,8 +20,6 @@ Lewis Gill and Cailean Scott |
 
 ### Introduction
 
-### Theory 
-
 ### Experimental Method
 
 ### Results 
