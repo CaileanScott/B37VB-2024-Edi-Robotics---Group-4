@@ -9,3 +9,15 @@ Cailean Scott, , cs2091@hw.ac.uk
 Version 1 |
 final draft |
 Lewis Gill and Cailean Scott |
+
+### Introduction
+
+### Theory 
+
+### Experimental Method
+
+### Results 
+
+### Analysis
+
+### Conclusion
