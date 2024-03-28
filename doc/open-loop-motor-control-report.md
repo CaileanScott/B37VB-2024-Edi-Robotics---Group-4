@@ -33,5 +33,5 @@ Cailean Scott, , cs2091@hw.ac.uk
 | Left  PWM Value |     200       |      200      |     140       |       100      |
 
 ### Analysis
-
+In the open loop motor experiment, we used 3 unique PWM Values to show change in the speed of the buggy (shown in table 3). Firstly, we did Speed no.1, this was with both PWM Values being equal at 200, as we ran the Buggy we discovered that one of the motors was slower than the other making the Buggy drift toward the left. For the second attempt we adjusted the speeds to have the Right PWM value lowered to 160 and keeping the Left PWM value at 200 to counteract the natural drifting, this was a successful change, and our Buggy was then going in a straight-line with the 40 PWM value difference. When doing Speed no.3 we used the same difference in PWM values but lowered both overall PWM values by 60, which still drove straight but at a slower speed. Finally, Speed no.4 we again kept the same difference in PWM Value and again lowered the overall PWM Value down by 40 and again was again successful at an even slower speed.
 ### Conclusion
