@@ -5,7 +5,7 @@ Lewis Gill, H00436489, lg2050@hw.ac.uk
 Cailean Scott, , cs2091@hw.ac.uk
 
 ### Revision History
-*table 2*
+*table 1*
 | 27th of Marth 2024 | Version 1     | Final Draft   |              
 | -------------      | ------------- | ------------- | 
 | Lewis Gill         | Cailean Scott |               | 
@@ -26,7 +26,7 @@ Cailean Scott, , cs2091@hw.ac.uk
 
 ### Results 
 #### The PWM Values at different speeds 
-*table 2*
+*table 3*
 | Speed no.#      | Speed no.1    | Speed no.2    | Speed no.3    |  Speed no.4    |           
 | -------------   | ------------- | ------------- | ------------- |  ------------- | 
 | Right PWM Value |     200       |      160      |     100       |       60       |
