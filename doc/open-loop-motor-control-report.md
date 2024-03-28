@@ -18,6 +18,8 @@ Cailean Scott, , cs2091@hw.ac.uk
 | Results             | 3rd paragragh |
 | Analysis            | 4th paragragh |
 | Conclusion          | 5th paragragh |
+
+table 2
 ### Introduction
 
 ### Experimental Method
