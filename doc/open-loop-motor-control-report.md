@@ -21,9 +21,9 @@ Cailean Scott, , cs2091@hw.ac.uk
 
 
 ### Introduction
-
+Open loop control is a method of system control where there is no feedback in the control system. This is a type of continuous control of which the output has absolutely no impact or effect on the input hence has no feedback. Some simple examples of open loop control systems are a lightbulb or TV remote where their respective outputs have no effect on their inputs. 
 ### Experimental Method
-
+Our task was to use an open-loop control system to control two drive motors to move a buggy to fit certain requirements. The control system consists of the firmware running on the ATMega328P MCU and the H-Bridge IC is used to provide power to the two motors.  We were required to operate the buggy at 3 different speeds in response to changes made to our input code in Arduino IDE. Firstly we wired our microcontroller unit to the breadboard attached on the buggy however at first we could not get the motors to operate. Upon analysis of our wiring we could see that the reason for the motors not working was that we put 2 wires into the ground therefor shorting the circuit.  Once this issue was solved we set the speed parameters of the pulse width modulation (PWM) on the buggy between -255 and 255 where any positive number is forwards and any negative number put the motor in reverse. Initially we set the PWM to 200 on each side however we noticed that despite this the buggy was not travelling in a straight line meaning one motor was going faster then the other.  Therefor we adjusted the values of the of each motor’ PWM in the code to make the buggy go in a straight line. We found that if we kept the left PWM value at 200 and reduced the right PWM value to 160 the buggy travelled in a straight line. We then repeated this process two more times reducing the values to 140 and 100, then 100 and 60 of the left and right motors respectively, in order to operate the motor at 3 different speeds. 
 ### Results 
 #### The PWM Values at different speeds 
 *Table 3*
